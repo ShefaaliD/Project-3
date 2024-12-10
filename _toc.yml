@@ -1,6 +1,6 @@
 format: jb-book
 root: index
 chapters:
-  - file: project_3.ipynb
   - file: sd3848_Project 1.ipynb
-  - file: sd3848_Project 2.ipynb
+  - file: sd3848_Project2.ipynb
+  - file: project_3.ipynb
